@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Grewather
-- 👀 I’m interested in crypto/webdevelopment/game hacking
+- 👀 I’m interested in crypto/webdevelopment
 - 🌱 I’m currently learning vue, cpp
 - 📫 How to reach me Grewather#4832
 
