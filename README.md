@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grewather
 - 👀 I’m interested in crypto/webdevelopment
-- 🌱 I’m currently learning vue, cpp
+- 🌱 I’m currently learning React
 - 📫 How to reach me Grewather#4832
 
 <!---
